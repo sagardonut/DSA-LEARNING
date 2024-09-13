@@ -1,0 +1,13 @@
+Problem :
+    You are given an array of  list of different random int you need to find out the 
+    minimum and maximium int from the array.
+
+Examples:
+    input : arr = [4,6,8,3,7,-5]
+    output : min:-5 , max:8 
+
+    input : arr = [5,5,5,5]
+    output :  min:5 , max:5
+
+    input : arr = []
+    output : None
