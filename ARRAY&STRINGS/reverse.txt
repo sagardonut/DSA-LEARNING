@@ -1,0 +1,16 @@
+Problem Statement:
+Write a function that takes an array or string and returns it reversed. Your solution should work for both arrays and strings.
+
+Example Input and Output:
+Example 1: Array
+
+Input: [1, 2, 3, 4, 5]
+Output: [5, 4, 3, 2, 1]
+Example 2: String
+
+Input: "hello"
+Output: "olleh"
+Example 3: Empty Array/String
+
+Input: [] or ""
+Output: [] or ""
